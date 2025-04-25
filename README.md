@@ -5,8 +5,6 @@ Advanced Layer 7 DDoS Testing Tool with Behavioral Evasion
 
 Advanced Layer 7 DDoS Testing Tool with Behavioral Evasion
 
-![GoDOSStomper Banner](banner.png)
-
 ## Fitur Utama
 - ✅ Intelligent Layer 7 Flood
 - ✅ Behavioral Evasion (v1.1+)
